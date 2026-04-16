@@ -1,0 +1,91 @@
+Transaction ID,Customer ID,Date,Product,Category,Quantity,Price
+T001,C001,2023-01-05,Running Shoes,Footwear,1,2499
+T002,C002,2023-01-07,Face Cream,Beauty,2,899
+T003,C003,2023-01-09,Laptop Stand,Electronics,1,1599
+T004,C004,2023-01-10,Yoga Mat,Fitness,1,799
+T005,C005,2023-01-12,Men's T-Shirt,Apparel,3,599
+T006,C006,2023-01-14,Moisturizer,Beauty,1,1299
+T007,C007,2023-01-15,Wireless Mouse,Electronics,2,849
+T008,C008,2023-01-17,Sports Bottle,Fitness,2,349
+T009,C009,2023-01-18,Formal Shoes,Footwear,1,3499
+T010,C010,2023-01-20,Serum,Beauty,1,1899
+T011,C001,2023-01-25,Socks Pack,Apparel,2,299
+T012,C003,2023-01-28,USB Hub,Electronics,1,699
+T013,C011,2023-02-01,Dumbbell Set,Fitness,1,2999
+T014,C012,2023-02-03,Sandals,Footwear,1,1199
+T015,C013,2023-02-05,Sunscreen,Beauty,2,749
+T016,C014,2023-02-07,Kurta,Apparel,2,1099
+T017,C015,2023-02-09,Smart Watch,Electronics,1,8999
+T018,C016,2023-02-11,Resistance Band,Fitness,3,449
+T019,C017,2023-02-13,Sneakers,Footwear,1,2999
+T020,C018,2023-02-15,Night Cream,Beauty,1,1599
+T021,C019,2023-02-17,Bluetooth Speaker,Electronics,1,3499
+T022,C020,2023-02-19,Jeans,Apparel,2,1799
+T023,C002,2023-02-22,Lipstick,Beauty,3,499
+T024,C005,2023-02-24,Gym Gloves,Fitness,1,599
+T025,C021,2023-03-01,Formal Shirt,Apparel,2,1299
+T026,C022,2023-03-03,Earrings,Beauty,1,899
+T027,C023,2023-03-05,Power Bank,Electronics,1,2199
+T028,C024,2023-03-07,Flip Flops,Footwear,2,399
+T029,C025,2023-03-09,Treadmill,Fitness,1,24999
+T030,C026,2023-03-11,Saree,Apparel,1,3499
+T031,C027,2023-03-13,Hair Dryer,Beauty,1,1999
+T032,C028,2023-03-15,Keyboard,Electronics,1,2799
+T033,C029,2023-03-17,Loafers,Footwear,1,2299
+T034,C030,2023-03-19,Foundation,Beauty,2,1099
+T035,C031,2023-03-21,Skipping Rope,Fitness,2,349
+T036,C032,2023-03-23,Dress,Apparel,1,2199
+T037,C033,2023-03-25,Monitor,Electronics,1,12999
+T038,C034,2023-03-27,Heels,Footwear,1,1899
+T039,C035,2023-03-29,Face Wash,Beauty,2,599
+T040,C036,2023-04-01,Track Pants,Apparel,2,899
+T041,C001,2023-04-03,Running Shoes,Footwear,1,2499
+T042,C009,2023-04-05,Protein Powder,Fitness,2,1999
+T043,C037,2023-04-07,Smartband,Electronics,1,4499
+T044,C038,2023-04-09,Kurti,Apparel,3,799
+T045,C039,2023-04-11,Perfume,Beauty,1,2999
+T046,C040,2023-04-13,Ankle Boots,Footwear,1,3199
+T047,C041,2023-04-15,Cycling Shorts,Fitness,2,999
+T048,C042,2023-04-17,Tablet,Electronics,1,18999
+T049,C043,2023-04-19,Blazer,Apparel,1,4999
+T050,C044,2023-04-21,Kajal,Beauty,3,299
+T051,C045,2023-04-23,Sports Shoes,Footwear,1,2799
+T052,C046,2023-04-25,Yoga Block,Fitness,2,499
+T053,C047,2023-04-27,Headphones,Electronics,1,5999
+T054,C048,2023-04-29,Lehenga,Apparel,1,6999
+T055,C049,2023-05-01,Toner,Beauty,2,799
+T056,C050,2023-05-03,Oxford Shoes,Footwear,1,3999
+T057,C002,2023-05-05,Eyeliner,Beauty,2,349
+T058,C006,2023-05-07,BB Cream,Beauty,1,999
+T059,C051,2023-05-09,Pull-up Bar,Fitness,1,1499
+T060,C052,2023-05-11,Printed Top,Apparel,2,699
+T061,C053,2023-05-13,Webcam,Electronics,1,3299
+T062,C054,2023-05-15,Mules,Footwear,1,1599
+T063,C055,2023-05-17,Whey Protein,Fitness,1,2799
+T064,C056,2023-05-19,Palazzo,Apparel,2,899
+T065,C057,2023-05-21,Trimmer,Electronics,1,1999
+T066,C058,2023-05-23,Lip Gloss,Beauty,3,249
+T067,C059,2023-05-25,Derby Shoes,Footwear,1,2999
+T068,C060,2023-05-27,Aerobic Stepper,Fitness,1,3499
+T069,C061,2023-05-29,Shorts,Apparel,3,599
+T070,C062,2023-06-01,Straightener,Beauty,1,2499
+T071,C063,2023-06-03,Router,Electronics,1,3799
+T072,C064,2023-06-05,Wedges,Footwear,1,2199
+T073,C065,2023-06-07,Foam Roller,Fitness,1,1299
+T074,C066,2023-06-09,Ethnic Dress,Apparel,1,2799
+T075,C067,2023-06-11,Concealer,Beauty,2,699
+T076,C068,2023-06-13,Running Shoes,Footwear,1,2699
+T077,C069,2023-06-15,Smart TV,Electronics,1,32999
+T078,C070,2023-06-17,Cardigan,Apparel,1,1899
+T079,C009,2023-06-19,Gym Bag,Fitness,1,1499
+T080,C013,2023-06-21,Deodorant,Beauty,2,499
+T081,C071,2023-07-01,Polo T-Shirt,Apparel,3,799
+T082,C072,2023-07-03,Flat Sandals,Footwear,2,799
+T083,C073,2023-07-05,Air Purifier,Electronics,1,8499
+T084,C074,2023-07-07,Sunscreen SPF50,Beauty,2,899
+T085,C075,2023-07-09,Resistance Tube,Fitness,3,399
+T086,C076,2023-07-11,Linen Shirt,Apparel,2,1299
+T087,C077,2023-07-13,Chelsea Boots,Footwear,1,4499
+T088,C078,2023-07-15,Smart Bulb,Electronics,4,699
+T089,C079,2023-07-17,Vitamin C Serum,Beauty,1,1699
+T090,C080,2023-07-19,Ankle Leggings,Apparel,3,699
