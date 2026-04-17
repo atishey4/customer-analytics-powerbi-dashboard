@@ -1,10 +1,26 @@
-> 📥 **[Download Dashboard Screenshot](https://raw.githubusercontent.com/atishey4/customer-analytics-powerbi-dashboard/main/screenshots/image.jpg)**
+# 📊 Customer Segmentation & Retention Analytics in Power BI
 
-![Dashboard Preview](https://raw.githubusercontent.com/atishey4/customer-analytics-powerbi-dashboard/main/screenshots/image.jpg)
+> **MBA Portfolio Project | Customer Analytics | Segmentation | Retention Dashboard**
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Domain](https://img.shields.io/badge/Domain-Customer%20Analytics-blue)
 
 ---
 
-# Customer Segmentation & Retention Analytics in Power BI
+## ⬇️ Download Project Files
+
+| File | Description | Link |
+|------|-------------|------|
+| 📊 Power BI Dashboard | Full .pbix file with data model, DAX measures & visuals | [Download PBIX](https://github.com/atishey4/customer-analytics-powerbi-dashboard/raw/main/Customer_Analytics_Dashboard.pbix) |
+
+---
+
+## 📸 Screenshots
+
+![Dashboard](screenshots/image.jpg)
+
+---
 
 ## 📌 Overview
 This project focuses on analyzing customer behavior, segmenting customers based on value and engagement, and evaluating retention patterns using Power BI.
@@ -155,8 +171,34 @@ This dashboard helps:
 
 ---
 
+## 📁 Folder Structure
+
+```
+customer-analytics-powerbi-dashboard/
+│
+├── Customer_Analytics_Dashboard.pbix   # Main Power BI file
+│
+├── raw data/
+│   ├── Customers.csv
+│   ├── Transactions.csv
+│   └── SupportTickets.csv
+│
+├── screenshots/
+│   └── image.jpg
+│
+└── README.md
+```
+
+---
+
 ## 👤 Author
 
 **Atishey Jain**  
 MBA Student | IMI Delhi  
 🔗 [GitHub](https://github.com/atishey4) | [LinkedIn](https://www.linkedin.com/in/atishey-jain-66430715b/)
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
