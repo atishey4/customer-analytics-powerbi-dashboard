@@ -18,7 +18,7 @@
 
 ## 📸 Screenshots
 
-![Dashboard](screenshots/image.jpg)
+![Dashboard](screenshots/Screenshot%202026-04-16%20204249.png)
 
 ---
 
@@ -184,7 +184,7 @@ customer-analytics-powerbi-dashboard/
 │   └── SupportTickets.csv
 │
 ├── screenshots/
-│   └── image.jpg
+│   └── Screenshot 2026-04-16 204249.png
 │
 └── README.md
 ```
