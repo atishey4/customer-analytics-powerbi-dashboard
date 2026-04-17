@@ -151,7 +151,9 @@ This dashboard helps:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](screenshots/image.jpg)
+> 📥 **[Download Dashboard Screenshot](screenshots/image.jpg)**
+
+![Dashboard Preview](screenshots/image.jpg)
 
 ---
 
