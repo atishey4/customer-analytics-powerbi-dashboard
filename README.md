@@ -171,6 +171,16 @@ This dashboard helps:
 
 ---
 
+## 📝 Resume-Ready Project Descriptions
+
+**One-liner:**
+> Built an end-to-end Power BI Customer Segmentation & Retention Analytics Dashboard with DAX measures, star schema modeling, and interactive visuals to track revenue, churn, and customer lifetime value.
+
+**ATS-Friendly Version:**
+> Designed a Customer Segmentation & Retention Analytics Dashboard in Power BI using a star schema data model (Transactions as fact table, Customers as dimension table) with a custom Date Table for time intelligence. Cleaned and transformed raw CSV data using Power Query and built DAX measures tracking Total Revenue (₹5.17L), Active Customers (105), Retention Rate, Churn Rate, AOV (₹3.45K), and Customer Lifetime Value. Segmented 105 customers into High, Medium, and Low Value tiers and visualized trends using bar charts, donut charts, line charts, cohort heatmaps, and a matrix table — with slicers for Region, Gender, Segment, Channel, and Date.
+
+---
+
 ## 📁 Folder Structure
 
 ```
