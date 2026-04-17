@@ -1,3 +1,9 @@
+> 📥 **[Download Dashboard Screenshot](https://raw.githubusercontent.com/atishey4/customer-analytics-powerbi-dashboard/main/screenshots/image.jpg)**
+
+![Dashboard Preview](https://raw.githubusercontent.com/atishey4/customer-analytics-powerbi-dashboard/main/screenshots/image.jpg)
+
+---
+
 # Customer Segmentation & Retention Analytics in Power BI
 
 ## 📌 Overview
@@ -146,14 +152,6 @@ This dashboard helps:
 - CRM teams → improve engagement strategies
 - Management → monitor retention and revenue trends
 - Businesses → increase profitability through better customer understanding
-
----
-
-## 🖼️ Dashboard Preview
-
-> 📥 **[Download Dashboard Screenshot](screenshots/image.jpg)**
-
-![Dashboard Preview](screenshots/image.jpg)
 
 ---
 
